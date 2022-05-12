@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="HzeUZ6" name="GUI_Practice" projectType="audioplug" useAppConfig="0"
+              displaySplashScreen="1" jucerFormatVersion="1">
+  <MAINGROUP id="leW9vp" name="GUI_Practice">
+    <GROUP id="{A563272A-EE52-0844-D5A2-AAB3597EA052}" name="Source">
+      <GROUP id="{8BBE52EF-2CDD-B1D1-7789-9E9F9F8E4435}" name="MenuKnob">
+        <FILE id="bj5T0B" name="menu_knob_0001.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0001.png"/>
+        <FILE id="C17oSQ" name="menu_knob_0002.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0002.png"/>
+        <FILE id="wEamqQ" name="menu_knob_0003.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0003.png"/>
+        <FILE id="YSz21c" name="menu_knob_0004.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0004.png"/>
+        <FILE id="BpmeLC" name="menu_knob_0005.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0005.png"/>
+        <FILE id="y1nmte" name="menu_knob_0006.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0006.png"/>
+        <FILE id="GXd4bq" name="menu_knob_0007.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0007.png"/>
+        <FILE id="swg2zY" name="menu_knob_0008.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0008.png"/>
+        <FILE id="PVwSTs" name="menu_knob_0009.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0009.png"/>
+        <FILE id="QvCk4W" name="menu_knob_0010.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0010.png"/>
+        <FILE id="Fg1twK" name="menu_knob_0011.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0011.png"/>
+        <FILE id="zm9RLu" name="menu_knob_0012.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0012.png"/>
+        <FILE id="FZnA9H" name="menu_knob_0013.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0013.png"/>
+        <FILE id="qjwUcd" name="menu_knob_0014.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0014.png"/>
+        <FILE id="ShqL9v" name="menu_knob_0015.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0015.png"/>
+        <FILE id="OjCFLJ" name="menu_knob_0016.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0016.png"/>
+        <FILE id="RNfOxR" name="menu_knob_0017.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0017.png"/>
+        <FILE id="SsOdzG" name="menu_knob_0018.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0018.png"/>
+        <FILE id="sUyLyN" name="menu_knob_0019.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0019.png"/>
+        <FILE id="boNBx4" name="menu_knob_0020.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0020.png"/>
+        <FILE id="k5mFUK" name="menu_knob_0021.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0021.png"/>
+        <FILE id="M3BqHM" name="menu_knob_0022.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0022.png"/>
+        <FILE id="p3JGcA" name="menu_knob_0023.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0023.png"/>
+        <FILE id="x239ll" name="menu_knob_0024.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0024.png"/>
+        <FILE id="A5fo5x" name="menu_knob_0025.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0025.png"/>
+        <FILE id="HEj4A0" name="menu_knob_0026.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0026.png"/>
+        <FILE id="g8BAdQ" name="menu_knob_0027.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0027.png"/>
+        <FILE id="FER18F" name="menu_knob_0028.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0028.png"/>
+        <FILE id="CG1cVA" name="menu_knob_0029.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0029.png"/>
+        <FILE id="ylvoKY" name="menu_knob_0030.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0030.png"/>
+        <FILE id="DoHqld" name="menu_knob_0031.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0031.png"/>
+        <FILE id="CPuT6J" name="menu_knob_0032.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0032.png"/>
+        <FILE id="fQdY0w" name="menu_knob_0033.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0033.png"/>
+        <FILE id="jwPhqJ" name="menu_knob_0034.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0034.png"/>
+        <FILE id="wzh7nt" name="menu_knob_0035.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0035.png"/>
+        <FILE id="XMTVU3" name="menu_knob_0036.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0036.png"/>
+        <FILE id="HSSlhJ" name="menu_knob_0037.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0037.png"/>
+        <FILE id="sdwQW5" name="menu_knob_0038.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0038.png"/>
+        <FILE id="fu1shD" name="menu_knob_0039.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0039.png"/>
+        <FILE id="qw8YxF" name="menu_knob_0040.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0040.png"/>
+        <FILE id="xzuEeB" name="menu_knob_0041.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0041.png"/>
+        <FILE id="vzsCJD" name="menu_knob_0042.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0042.png"/>
+        <FILE id="tXOTIe" name="menu_knob_0043.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0043.png"/>
+        <FILE id="EE02FE" name="menu_knob_0044.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0044.png"/>
+        <FILE id="Iwh8F0" name="menu_knob_0045.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0045.png"/>
+        <FILE id="rwiqqd" name="menu_knob_0046.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0046.png"/>
+        <FILE id="z9y1uj" name="menu_knob_0047.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0047.png"/>
+        <FILE id="A7fWQu" name="menu_knob_0048.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0048.png"/>
+        <FILE id="Hckpen" name="menu_knob_0049.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0049.png"/>
+        <FILE id="hCxRbj" name="menu_knob_0050.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0050.png"/>
+        <FILE id="A5e2NR" name="menu_knob_0051.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0051.png"/>
+        <FILE id="N3mP7v" name="menu_knob_0052.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0052.png"/>
+        <FILE id="VYqdBN" name="menu_knob_0053.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0053.png"/>
+        <FILE id="txc58x" name="menu_knob_0054.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0054.png"/>
+        <FILE id="pSTW46" name="menu_knob_0055.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0055.png"/>
+        <FILE id="slS5WN" name="menu_knob_0056.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0056.png"/>
+        <FILE id="gG7aXh" name="menu_knob_0057.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0057.png"/>
+        <FILE id="oF0NVd" name="menu_knob_0058.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0058.png"/>
+        <FILE id="y7ZKnm" name="menu_knob_0059.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0059.png"/>
+        <FILE id="GFhWmB" name="menu_knob_0060.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0060.png"/>
+        <FILE id="MGizoL" name="menu_knob_0061.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0061.png"/>
+        <FILE id="nzTBhk" name="menu_knob_0062.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0062.png"/>
+        <FILE id="HNrI4m" name="menu_knob_0063.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0063.png"/>
+        <FILE id="gOqlTA" name="menu_knob_0064.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0064.png"/>
+        <FILE id="QdwTjj" name="menu_knob_0065.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0065.png"/>
+        <FILE id="DigHHk" name="menu_knob_0066.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0066.png"/>
+        <FILE id="zBHzuS" name="menu_knob_0067.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0067.png"/>
+        <FILE id="tnGGBH" name="menu_knob_0068.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0068.png"/>
+        <FILE id="rHitjG" name="menu_knob_0069.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0069.png"/>
+        <FILE id="kdjtvX" name="menu_knob_0070.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0070.png"/>
+        <FILE id="OXOOnO" name="menu_knob_0071.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0071.png"/>
+        <FILE id="XQQL7N" name="menu_knob_0072.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0072.png"/>
+        <FILE id="Qp3tR9" name="menu_knob_0073.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0073.png"/>
+        <FILE id="TBEGH6" name="menu_knob_0074.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0074.png"/>
+        <FILE id="jXGjaO" name="menu_knob_0075.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0075.png"/>
+        <FILE id="YETAqX" name="menu_knob_0076.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0076.png"/>
+        <FILE id="c78vki" name="menu_knob_0077.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0077.png"/>
+        <FILE id="awp8DC" name="menu_knob_0078.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0078.png"/>
+        <FILE id="IGGsBM" name="menu_knob_0079.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0079.png"/>
+        <FILE id="ulFCJ7" name="menu_knob_0080.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0080.png"/>
+        <FILE id="kTLFWg" name="menu_knob_0081.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0081.png"/>
+        <FILE id="JQZnNt" name="menu_knob_0082.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0082.png"/>
+        <FILE id="HoebTB" name="menu_knob_0083.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0083.png"/>
+        <FILE id="aUxvgc" name="menu_knob_0084.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0084.png"/>
+        <FILE id="Ece2Lu" name="menu_knob_0085.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0085.png"/>
+        <FILE id="uXZ2uX" name="menu_knob_0086.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0086.png"/>
+        <FILE id="sIb7dr" name="menu_knob_0087.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0087.png"/>
+        <FILE id="ZVp9Wz" name="menu_knob_0088.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0088.png"/>
+        <FILE id="AH5xA5" name="menu_knob_0089.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0089.png"/>
+        <FILE id="CO01uQ" name="menu_knob_0090.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0090.png"/>
+        <FILE id="IEKBqH" name="menu_knob_0091.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0091.png"/>
+        <FILE id="czyr6y" name="menu_knob_0092.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0092.png"/>
+        <FILE id="um1R4Y" name="menu_knob_0093.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0093.png"/>
+        <FILE id="Mx3n1p" name="menu_knob_0094.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0094.png"/>
+        <FILE id="mwlh9T" name="menu_knob_0095.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0095.png"/>
+        <FILE id="itLqPo" name="menu_knob_0096.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0096.png"/>
+        <FILE id="WSe5Kv" name="menu_knob_0097.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0097.png"/>
+        <FILE id="osqZlF" name="menu_knob_0098.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0098.png"/>
+        <FILE id="fybqxj" name="menu_knob_0099.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0099.png"/>
+        <FILE id="ugjhCH" name="menu_knob_0100.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0100.png"/>
+        <FILE id="O0wlGy" name="menu_knob_0101.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0101.png"/>
+        <FILE id="zg3oyc" name="menu_knob_0102.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0102.png"/>
+        <FILE id="yRw2Mz" name="menu_knob_0103.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0103.png"/>
+        <FILE id="ZiYIoV" name="menu_knob_0104.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0104.png"/>
+        <FILE id="hltiRj" name="menu_knob_0105.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0105.png"/>
+        <FILE id="QFWXFv" name="menu_knob_0106.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0106.png"/>
+        <FILE id="Er8RIM" name="menu_knob_0107.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0107.png"/>
+        <FILE id="E3RhJY" name="menu_knob_0108.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0108.png"/>
+        <FILE id="AI2aNN" name="menu_knob_0109.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0109.png"/>
+        <FILE id="fBuQ6c" name="menu_knob_0110.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0110.png"/>
+        <FILE id="ghPlAu" name="menu_knob_0111.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0111.png"/>
+        <FILE id="bm2cv0" name="menu_knob_0112.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0112.png"/>
+        <FILE id="cFKpst" name="menu_knob_0113.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0113.png"/>
+        <FILE id="i8Fckj" name="menu_knob_0114.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0114.png"/>
+        <FILE id="XCLF7M" name="menu_knob_0115.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0115.png"/>
+        <FILE id="EhGm73" name="menu_knob_0116.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0116.png"/>
+        <FILE id="LUTnRx" name="menu_knob_0117.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0117.png"/>
+        <FILE id="jFCgur" name="menu_knob_0118.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0118.png"/>
+        <FILE id="QdGmc8" name="menu_knob_0119.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0119.png"/>
+        <FILE id="Rq1tCl" name="menu_knob_0120.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0120.png"/>
+        <FILE id="jArVWl" name="menu_knob_0121.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0121.png"/>
+        <FILE id="tMyzzQ" name="menu_knob_0122.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0122.png"/>
+        <FILE id="tnHBcf" name="menu_knob_0123.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0123.png"/>
+        <FILE id="DlsMT9" name="menu_knob_0124.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0124.png"/>
+        <FILE id="cus7lT" name="menu_knob_0125.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0125.png"/>
+        <FILE id="HAoYqA" name="menu_knob_0126.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0126.png"/>
+        <FILE id="Z9SHw5" name="menu_knob_0127.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0127.png"/>
+        <FILE id="y6ZgW5" name="menu_knob_0128.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0128.png"/>
+        <FILE id="wdsPOv" name="menu_knob_0129.png" compile="0" resource="1"
+              file="../ISW - GUI/1x/Animation/menu_knob/menu_knob_0129.png"/>
+      </GROUP>
+      <GROUP id="{AF3FE1BA-B5BE-4553-B9A1-0546ACA15DB3}" name="AmpKnob">
+        <FILE id="UZdD6p" name="amp_knob_0000.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0000.png"/>
+        <FILE id="yUmDEa" name="amp_knob_0001.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0001.png"/>
+        <FILE id="sieD2U" name="amp_knob_0002.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0002.png"/>
+        <FILE id="A3RQaA" name="amp_knob_0003.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0003.png"/>
+        <FILE id="gTF0SR" name="amp_knob_0004.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0004.png"/>
+        <FILE id="rFNaTk" name="amp_knob_0005.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0005.png"/>
+        <FILE id="KwqLzr" name="amp_knob_0006.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0006.png"/>
+        <FILE id="BlLePB" name="amp_knob_0007.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0007.png"/>
+        <FILE id="pHBwnb" name="amp_knob_0008.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0008.png"/>
+        <FILE id="NiKmkV" name="amp_knob_0009.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0009.png"/>
+        <FILE id="uDIGlj" name="amp_knob_0010.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0010.png"/>
+        <FILE id="ytNIEo" name="amp_knob_0011.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0011.png"/>
+        <FILE id="VKJqM9" name="amp_knob_0012.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0012.png"/>
+        <FILE id="rfuqFN" name="amp_knob_0013.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0013.png"/>
+        <FILE id="y6KQZv" name="amp_knob_0014.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0014.png"/>
+        <FILE id="YO38AS" name="amp_knob_0015.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0015.png"/>
+        <FILE id="mYA5qw" name="amp_knob_0016.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0016.png"/>
+        <FILE id="EjrfPp" name="amp_knob_0017.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0017.png"/>
+        <FILE id="Y9k2xx" name="amp_knob_0018.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0018.png"/>
+        <FILE id="yFwPJX" name="amp_knob_0019.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0019.png"/>
+        <FILE id="pxMrNH" name="amp_knob_0020.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0020.png"/>
+        <FILE id="L5DIUe" name="amp_knob_0021.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0021.png"/>
+        <FILE id="Pp1Fgy" name="amp_knob_0022.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0022.png"/>
+        <FILE id="gxe6oZ" name="amp_knob_0023.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0023.png"/>
+        <FILE id="wbuDgl" name="amp_knob_0024.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0024.png"/>
+        <FILE id="ag3mk0" name="amp_knob_0025.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0025.png"/>
+        <FILE id="PA9tgj" name="amp_knob_0026.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0026.png"/>
+        <FILE id="KDJjLJ" name="amp_knob_0027.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0027.png"/>
+        <FILE id="EKnptL" name="amp_knob_0028.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0028.png"/>
+        <FILE id="tjmnAM" name="amp_knob_0029.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0029.png"/>
+        <FILE id="ZBVFmn" name="amp_knob_0030.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0030.png"/>
+        <FILE id="S6jAgG" name="amp_knob_0031.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0031.png"/>
+        <FILE id="KURH0t" name="amp_knob_0032.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0032.png"/>
+        <FILE id="d2HwVV" name="amp_knob_0033.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0033.png"/>
+        <FILE id="KbkP5u" name="amp_knob_0034.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0034.png"/>
+        <FILE id="y9rKOi" name="amp_knob_0035.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0035.png"/>
+        <FILE id="yA0jgG" name="amp_knob_0036.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0036.png"/>
+        <FILE id="S4IikC" name="amp_knob_0037.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0037.png"/>
+        <FILE id="lGCLaL" name="amp_knob_0038.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0038.png"/>
+        <FILE id="Q3YWfg" name="amp_knob_0039.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0039.png"/>
+        <FILE id="nQD39v" name="amp_knob_0040.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0040.png"/>
+        <FILE id="gM5YWM" name="amp_knob_0041.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0041.png"/>
+        <FILE id="vsUb3L" name="amp_knob_0042.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0042.png"/>
+        <FILE id="PAngEb" name="amp_knob_0043.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0043.png"/>
+        <FILE id="QVYP2c" name="amp_knob_0044.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0044.png"/>
+        <FILE id="v0G5aY" name="amp_knob_0045.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0045.png"/>
+        <FILE id="i8Stdw" name="amp_knob_0046.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0046.png"/>
+        <FILE id="O7vNd4" name="amp_knob_0047.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0047.png"/>
+        <FILE id="MlNAgW" name="amp_knob_0048.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0048.png"/>
+        <FILE id="c18WD9" name="amp_knob_0049.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0049.png"/>
+        <FILE id="eeXNcl" name="amp_knob_0050.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0050.png"/>
+        <FILE id="qWlmIe" name="amp_knob_0051.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0051.png"/>
+        <FILE id="JEZuoU" name="amp_knob_0052.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0052.png"/>
+        <FILE id="gJpdSr" name="amp_knob_0053.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0053.png"/>
+        <FILE id="TMHJwr" name="amp_knob_0054.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0054.png"/>
+        <FILE id="e2xcaj" name="amp_knob_0055.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0055.png"/>
+        <FILE id="mFbZqe" name="amp_knob_0056.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0056.png"/>
+        <FILE id="uTGwqP" name="amp_knob_0057.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0057.png"/>
+        <FILE id="j7NjVn" name="amp_knob_0058.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0058.png"/>
+        <FILE id="uugq1G" name="amp_knob_0059.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0059.png"/>
+        <FILE id="i2l3ij" name="amp_knob_0060.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0060.png"/>
+        <FILE id="NXVRIM" name="amp_knob_0061.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0061.png"/>
+        <FILE id="T4fxyj" name="amp_knob_0062.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0062.png"/>
+        <FILE id="IQzXiI" name="amp_knob_0063.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0063.png"/>
+        <FILE id="Q17N0J" name="amp_knob_0064.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0064.png"/>
+        <FILE id="voKv22" name="amp_knob_0065.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0065.png"/>
+        <FILE id="VAFZss" name="amp_knob_0066.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0066.png"/>
+        <FILE id="PvYZ5q" name="amp_knob_0067.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0067.png"/>
+        <FILE id="Q9W3BR" name="amp_knob_0068.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0068.png"/>
+        <FILE id="AetHLV" name="amp_knob_0069.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0069.png"/>
+        <FILE id="QdP48L" name="amp_knob_0070.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0070.png"/>
+        <FILE id="n3L1lN" name="amp_knob_0071.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0071.png"/>
+        <FILE id="C1HFEo" name="amp_knob_0072.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0072.png"/>
+        <FILE id="Kt5vC9" name="amp_knob_0073.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0073.png"/>
+        <FILE id="jVFVCv" name="amp_knob_0074.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0074.png"/>
+        <FILE id="uCHLAi" name="amp_knob_0075.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0075.png"/>
+        <FILE id="TYnLv4" name="amp_knob_0076.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0076.png"/>
+        <FILE id="jhhpeC" name="amp_knob_0077.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0077.png"/>
+        <FILE id="YnxsJr" name="amp_knob_0078.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0078.png"/>
+        <FILE id="vab7Ie" name="amp_knob_0079.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0079.png"/>
+        <FILE id="mxvtzY" name="amp_knob_0080.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0080.png"/>
+        <FILE id="K7nWkv" name="amp_knob_0081.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0081.png"/>
+        <FILE id="tSt1yX" name="amp_knob_0082.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0082.png"/>
+        <FILE id="zHB9eZ" name="amp_knob_0083.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0083.png"/>
+        <FILE id="oJGhlI" name="amp_knob_0084.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0084.png"/>
+        <FILE id="VyyJb0" name="amp_knob_0085.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0085.png"/>
+        <FILE id="IP73lE" name="amp_knob_0086.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0086.png"/>
+        <FILE id="i7B5xD" name="amp_knob_0087.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0087.png"/>
+        <FILE id="raKPre" name="amp_knob_0088.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0088.png"/>
+        <FILE id="b4Hf1Y" name="amp_knob_0089.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0089.png"/>
+        <FILE id="OiUGSA" name="amp_knob_0090.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0090.png"/>
+        <FILE id="wyrA4D" name="amp_knob_0091.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0091.png"/>
+        <FILE id="GBfevj" name="amp_knob_0092.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0092.png"/>
+        <FILE id="bbMrOh" name="amp_knob_0093.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0093.png"/>
+        <FILE id="GjY5qP" name="amp_knob_0094.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0094.png"/>
+        <FILE id="qs7YAT" name="amp_knob_0095.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0095.png"/>
+        <FILE id="jOMAiE" name="amp_knob_0096.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0096.png"/>
+        <FILE id="i4LtIe" name="amp_knob_0097.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0097.png"/>
+        <FILE id="jycHXT" name="amp_knob_0098.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0098.png"/>
+        <FILE id="IPlXdb" name="amp_knob_0099.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0099.png"/>
+        <FILE id="jMkTxV" name="amp_knob_0100.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0100.png"/>
+        <FILE id="q9PMFF" name="amp_knob_0101.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0101.png"/>
+        <FILE id="t3MGNr" name="amp_knob_0102.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0102.png"/>
+        <FILE id="Rngnvr" name="amp_knob_0103.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0103.png"/>
+        <FILE id="RKHIr7" name="amp_knob_0104.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0104.png"/>
+        <FILE id="D4TmIJ" name="amp_knob_0105.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0105.png"/>
+        <FILE id="iRnjWH" name="amp_knob_0106.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0106.png"/>
+        <FILE id="BOSPoi" name="amp_knob_0107.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0107.png"/>
+        <FILE id="LrQeaR" name="amp_knob_0108.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0108.png"/>
+        <FILE id="zbBF9K" name="amp_knob_0109.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0109.png"/>
+        <FILE id="HdtAGt" name="amp_knob_0110.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0110.png"/>
+        <FILE id="McLR4e" name="amp_knob_0111.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0111.png"/>
+        <FILE id="DF8PjQ" name="amp_knob_0112.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0112.png"/>
+        <FILE id="mQelmX" name="amp_knob_0113.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0113.png"/>
+        <FILE id="qeDWiU" name="amp_knob_0114.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0114.png"/>
+        <FILE id="Nq5ZUL" name="amp_knob_0115.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0115.png"/>
+        <FILE id="BnNG88" name="amp_knob_0116.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0116.png"/>
+        <FILE id="bvokE2" name="amp_knob_0117.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0117.png"/>
+        <FILE id="OsWa5L" name="amp_knob_0118.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0118.png"/>
+        <FILE id="K5s5Lh" name="amp_knob_0119.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0119.png"/>
+        <FILE id="yqSCKl" name="amp_knob_0120.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0120.png"/>
+        <FILE id="SmHUEr" name="amp_knob_0121.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0121.png"/>
+        <FILE id="SbhVXc" name="amp_knob_0122.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0122.png"/>
+        <FILE id="Dp1FK8" name="amp_knob_0123.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0123.png"/>
+        <FILE id="IWGycT" name="amp_knob_0124.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0124.png"/>
+        <FILE id="XcUbac" name="amp_knob_0125.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0125.png"/>
+        <FILE id="wmEKhE" name="amp_knob_0126.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0126.png"/>
+        <FILE id="c5WRPM" name="amp_knob_0127.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0127.png"/>
+        <FILE id="Z1pDdR" name="amp_knob_0128.png" compile="0" resource="1"
+              file="../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0128.png"/>
+      </GROUP>
+      <FILE id="QuAINE" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="kNHfov" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="zWdnAV" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="GQ6xis" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="YDjYoA" name="AmpKnob.h" compile="0" resource="0" file="Source/AmpKnob.h"/>
+      <FILE id="tteMNX" name="MenuKnob.h" compile="0" resource="0" file="Source/MenuKnob.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="GUI_Practice"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="GUI_Practice"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>
