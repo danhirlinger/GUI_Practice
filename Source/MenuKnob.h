@@ -14,8 +14,7 @@
 #define __MenuKnob__
 
 //==============================================================================
-// There are two options, Big White Knob with (below) and without the blue outline.
-// Just inherit the desired LookAndFeel
+
 class MenuKnob : public LookAndFeel_V4 // inherit from LookAndFeel_V4
 {
 public:
@@ -45,9 +44,7 @@ public:
 //        const int frameIdx = (int)ceil(fractRotation * ((BinaryData::namedResourceListSize) - 1));
         const int frameIdx = (int)ceil(fractRotation * ((130) - 1));
         // Original current index from 0 --> namedResourceListSize-1
-        // Will need to alter framing index when there are multiple knobs in resourceList
-        // Right now is assumed image has index of 0-128
-        
+        // Need to alter framing index when there are multiple knobs in resourceList
         
         // Goal: take the file name and find its beginning index in binaryData.h
         // find the beginning index of the file name, and then add that index number to the frameIdx
@@ -56,32 +53,31 @@ public:
 ///        String filename1 = "menu_knob_";
 ///        String filename2 = "_png";
 ///        String armadillo = std::to_string(frameIdx);
+///        auto totalSize = filename1.String::length() + armadillo.String::length() + filename2.String::length();
 
         // Would like to have a function that can find the index of the start of the files, rather than gather the binary data using the file name with the function "BinaryData::originalFilenames"
-
-//        auto totalSize = filename1.String::length() + armadillo.String::length() + filename2.String::length();
         
-        // this is returning the binary data of the image
-//        const char* doggo = BinaryData::originalFilenames['menu_knob_0000_png'];
+///         set a string = menu_knob_0000_png
+///         set a loop for the length of the namedResourceListSize
+///         within loop, search through namedResourceList array for the string name and its respective index in the array
+///         once found, extract the index number from that position. This is the number that gets added onto the frameIdx
         
-        
-        
-        // set a string = menu_knob_0000_png
-        // set a loop for the length of the namedResourceListSize
-        // within loop, search through namedResourceList array for the string name and its respective index in the array
-        // once
-        
+        ///  ^^ this will probably be too much CPU, unless we could implement this in the constructor
         
         
 //        char filename[] = {filename1, frameIdx, filename2};
 //        concatStrings(filename,filename1,frameIdx,filename2);
         
-        const char* cow = BinaryData::namedResourceList[frameIdx];
+        // BinaryData::namedResourceList[frameIdx]
+        // ^^ returns the binary data of the image as well as its size
         
-        auto knob = BinaryData::getNamedResource (cow, knobSize);
-        
-//        auto knob = BinaryData::getNamedResourceOriginalFilename(cow);
+        // BinaryData::getNamedResourceOriginalFilename(cow);
         // ^^ returning the file name
+        
+        // BinaryData::originalFilenames['menu_knob_0000_png'];
+        // ^^ returning the binary data of the image
+        
+        auto knob = BinaryData::getNamedResource (BinaryData::namedResourceList[frameIdx], knobSize);
         
         juce::Image image = juce::ImageCache::getFromMemory(knob, knobSize);
         

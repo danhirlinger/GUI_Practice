@@ -42,7 +42,7 @@ public:
         
         
 //        const int frameIdx = (int)ceil(fractRotation * ((BinaryData::namedResourceListSize) - 1));
-        const char frameIdx = (int)ceil(fractRotation * (129 - 1));
+        const char frameIdx = (int)ceil(fractRotation * (129 - 1)+130);
         // Original current index from 0 --> namedResourceListSize-1
         // Will need to alter framing index when there are multiple knobs in resourceList
         // RIght now is assumed image has index of 0-128
