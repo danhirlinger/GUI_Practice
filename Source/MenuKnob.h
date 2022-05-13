@@ -9,6 +9,7 @@
 
 #include "../JuceLibraryCode/JuceHeader.h"
 #include <stdio.h>
+//#include <algorithm>
 
 #ifndef __MenuKnob__
 #define __MenuKnob__
@@ -38,11 +39,22 @@ public:
         /// Width and height of object comes from above "drawRotarySlider"
 ///        const int nFrames = 256; //knob.getHeight()/knob.getWidth(); // number of frames for vertical film strip
         
+        /// idea taken from algorithm found on below website
+        /// https://www.techiedelight.com/find-index-element-array-cpp/
+        
+        auto arr = BinaryData::namedResourceList;
+        int n = sizeof(arr)/sizeof(arr[0]);
+        auto elem = "menu_knob_0000_png";
+        
+        auto itr = std::find(arr, arr + n, elem);
+        
+        int offset = std::distance(arr,itr);
+        
         const double fractRotation = (slider.getValue() - slider.getMinimum()) / (slider.getMaximum() - slider.getMinimum()); ///value between 0 and 1 for current amount of rotation
         
         
 //        const int frameIdx = (int)ceil(fractRotation * ((BinaryData::namedResourceListSize) - 1));
-        const int frameIdx = (int)ceil(fractRotation * ((130) - 1));
+        const int frameIdx = (int)ceil(fractRotation * ((130) - 1)+offset);
         // Original current index from 0 --> namedResourceListSize-1
         // Need to alter framing index when there are multiple knobs in resourceList
         
