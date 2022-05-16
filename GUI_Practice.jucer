@@ -4,6 +4,23 @@
               displaySplashScreen="1" jucerFormatVersion="1">
   <MAINGROUP id="leW9vp" name="GUI_Practice">
     <GROUP id="{A563272A-EE52-0844-D5A2-AAB3597EA052}" name="Source">
+      <GROUP id="{678BCE71-519B-E837-1709-51EA6F78052C}" name="L&amp;F Overwrites">
+        <GROUP id="{D429AEDB-0E81-42D6-1FDD-677B7417DD67}" name="Knobs">
+          <FILE id="YDjYoA" name="AmpKnob.h" compile="0" resource="0" file="Source/AmpKnob.h"/>
+          <FILE id="Qlje9H" name="ChorusKnob.h" compile="0" resource="0" file="Source/ChorusKnob.h"/>
+          <FILE id="jRmrRG" name="EchoKnob.h" compile="0" resource="0" file="Source/EchoKnob.h"/>
+          <FILE id="kb0C7x" name="EQKnob.h" compile="0" resource="0" file="Source/EQKnob.h"/>
+          <FILE id="tteMNX" name="MenuKnob.h" compile="0" resource="0" file="Source/MenuKnob.h"/>
+          <FILE id="ze9xDc" name="MXRKnob.h" compile="0" resource="0" file="Source/MXRKnob.h"/>
+          <FILE id="sfN9nq" name="ReverbKnob.h" compile="0" resource="0" file="Source/ReverbKnob.h"/>
+          <FILE id="bGlqrD" name="TSKnob.h" compile="0" resource="0" file="Source/TSKnob.h"/>
+        </GROUP>
+        <GROUP id="{4F57A84F-E21B-6607-7966-A10D8D18BF48}" name="Buttons">
+          <FILE id="FfDLZr" name="AmpButton.h" compile="0" resource="0" file="Source/L&amp;F Overwrites/Buttons/AmpButton.h"/>
+          <FILE id="nWLQos" name="BBDButton.h" compile="0" resource="0" file="Source/L&amp;F Overwrites/Buttons/BBDButton.h"/>
+          <FILE id="OuhYlT" name="CabinetButton.h" compile="0" resource="0" file="Source/L&amp;F Overwrites/Buttons/CabinetButton.h"/>
+        </GROUP>
+      </GROUP>
       <GROUP id="{B79573BB-E4C6-8B48-B1DB-F1D9388FE49E}" name="Images">
         <GROUP id="{AF3FE1BA-B5BE-4553-B9A1-0546ACA15DB3}" name="AmpKnob">
           <FILE id="UZdD6p" name="amp_knob_0000.png" compile="0" resource="1"
@@ -2085,16 +2102,22 @@
           <FILE id="QmOBQE" name="tube screamer ts -1_knob_0129.png" compile="0"
                 resource="1" file="../ISW - GUI/1x/Animation/tube screamer ts -1_knob/tube screamer ts -1_knob_0129.png"/>
         </GROUP>
-      </GROUP>
-      <GROUP id="{D429AEDB-0E81-42D6-1FDD-677B7417DD67}" name="Knobs">
-        <FILE id="YDjYoA" name="AmpKnob.h" compile="0" resource="0" file="Source/AmpKnob.h"/>
-        <FILE id="Qlje9H" name="ChorusKnob.h" compile="0" resource="0" file="Source/ChorusKnob.h"/>
-        <FILE id="jRmrRG" name="EchoKnob.h" compile="0" resource="0" file="Source/EchoKnob.h"/>
-        <FILE id="kb0C7x" name="EQKnob.h" compile="0" resource="0" file="Source/EQKnob.h"/>
-        <FILE id="tteMNX" name="MenuKnob.h" compile="0" resource="0" file="Source/MenuKnob.h"/>
-        <FILE id="ze9xDc" name="MXRKnob.h" compile="0" resource="0" file="Source/MXRKnob.h"/>
-        <FILE id="sfN9nq" name="ReverbKnob.h" compile="0" resource="0" file="Source/ReverbKnob.h"/>
-        <FILE id="bGlqrD" name="TSKnob.h" compile="0" resource="0" file="Source/TSKnob.h"/>
+        <GROUP id="{0C427A52-CA2D-7E5C-3D33-37DAD4D599DC}" name="Buttons">
+          <FILE id="pKMsZC" name="amp_button_off.png" compile="0" resource="1"
+                file="Source/Images/Buttons/amp_button_off.png"/>
+          <FILE id="yX0Mzj" name="amp_button_on.png" compile="0" resource="1"
+                file="Source/Images/Buttons/amp_button_on.png"/>
+          <FILE id="mn8cNQ" name="bbd_button_off.png" compile="0" resource="1"
+                file="Source/Images/Buttons/bbd_button_off.png"/>
+          <FILE id="XlgqFl" name="bbd_button_on.png" compile="0" resource="1"
+                file="Source/Images/Buttons/bbd_button_on.png"/>
+          <FILE id="L2hIyn" name="cabinet_button_arrows_left_on.png" compile="0"
+                resource="1" file="Source/Images/Buttons/cabinet_button_arrows_left_on.png"/>
+          <FILE id="iDx6ZC" name="cabinet_button_arrows_off.png" compile="0"
+                resource="1" file="Source/Images/Buttons/cabinet_button_arrows_off.png"/>
+          <FILE id="xKu61r" name="cabinet_button_arrows_right_on.png" compile="0"
+                resource="1" file="Source/Images/Buttons/cabinet_button_arrows_right_on.png"/>
+        </GROUP>
       </GROUP>
       <FILE id="QuAINE" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>

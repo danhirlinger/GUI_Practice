@@ -19,11 +19,16 @@
 #include "ReverbKnob.h"
 #include "TSKnob.h"
 
+#include "AmpButton.h"
+#include "BBDButton.h"
+
+
 //==============================================================================
 /**
 */
 class GUI_PracticeAudioProcessorEditor  : public AudioProcessorEditor,
-                                          public Slider::Listener
+                                          public Slider::Listener,
+                                          public Button::Listener
 
 {
 public:
@@ -35,6 +40,7 @@ public:
     void resized() override;
     
     void sliderValueChanged(Slider * slider) override;
+    void buttonClicked(Button * button) override;
 
 private:
     // This reference is provided as a quick way for your editor to
@@ -50,6 +56,7 @@ private:
     MXRKnob mxrKnob;
     ReverbKnob reverbKnob;
     TSKnob tsKnob;
+    AmpButton ampButton;
     
     Slider amp;
     Slider chorus;
@@ -59,6 +66,9 @@ private:
     Slider mxr;
     Slider reverb;
     Slider ts;
+    
+    ToggleButton ampButtonOn;
+    ToggleButton ampButtonOff;
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (GUI_PracticeAudioProcessorEditor)
 };

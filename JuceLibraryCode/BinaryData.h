@@ -3104,8 +3104,29 @@ namespace BinaryData
     extern const char*   tube_screamer_ts_1_knob_0129_png;
     const int            tube_screamer_ts_1_knob_0129_pngSize = 4872;
 
+    extern const char*   amp_button_off_png;
+    const int            amp_button_off_pngSize = 20339;
+
+    extern const char*   amp_button_on_png;
+    const int            amp_button_on_pngSize = 29840;
+
+    extern const char*   bbd_button_off_png;
+    const int            bbd_button_off_pngSize = 12730;
+
+    extern const char*   bbd_button_on_png;
+    const int            bbd_button_on_pngSize = 12266;
+
+    extern const char*   cabinet_button_arrows_left_on_png;
+    const int            cabinet_button_arrows_left_on_pngSize = 5262;
+
+    extern const char*   cabinet_button_arrows_off_png;
+    const int            cabinet_button_arrows_off_pngSize = 4471;
+
+    extern const char*   cabinet_button_arrows_right_on_png;
+    const int            cabinet_button_arrows_right_on_pngSize = 5258;
+
     // Number of elements in the namedResourceList and originalFileNames arrays.
-    const int namedResourceListSize = 1032;
+    const int namedResourceListSize = 1039;
 
     // Points to the start of a list of resource names.
     extern const char* namedResourceList[];
