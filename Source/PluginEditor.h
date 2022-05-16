@@ -11,7 +11,13 @@
 #include <JuceHeader.h>
 #include "PluginProcessor.h"
 #include "AmpKnob.h"
+#include "ChorusKnob.h"
+#include "EchoKnob.h"
+#include "EQKnob.h"
 #include "MenuKnob.h"
+#include "MXRKnob.h"
+#include "ReverbKnob.h"
+#include "TSKnob.h"
 
 //==============================================================================
 /**
@@ -37,10 +43,22 @@ private:
     GUI_PracticeAudioProcessor& audioProcessor;
     
     AmpKnob ampKnob;
+    ChorusKnob chorusKnob;
+    EchoKnob echoKnob;
+    EQKnob eqKnob;
     MenuKnob menuKnob;
+    MXRKnob mxrKnob;
+    ReverbKnob reverbKnob;
+    TSKnob tsKnob;
     
-    Slider ampSlider;
-    Slider menuSlider;
+    Slider amp;
+    Slider chorus;
+    Slider echo;
+    Slider eq;
+    Slider menu;
+    Slider mxr;
+    Slider reverb;
+    Slider ts;
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (GUI_PracticeAudioProcessorEditor)
 };

@@ -1,11 +1,5 @@
 //
 //  MenuKnob.h
-//
-//  Copyright © 2020 Eric Tarr. All rights reserved.
-//  Code may not be distributed without permission
-//
-//  This class was created to override and customize the LookAndFeel of the default JUCE components
-//
 
 #include "../JuceLibraryCode/JuceHeader.h"
 
@@ -13,8 +7,7 @@
 #define __MenuKnob__
 
 //==============================================================================
-// There are two options, Big White Knob with (below) and without the blue outline.
-// Just inherit the desired LookAndFeel
+
 class MenuKnob : public LookAndFeel_V4 // inherit from LookAndFeel_V4
 {
 public:
@@ -33,30 +26,15 @@ public:
                                       Slider &     slider )
     {
         
-        int knobSize;
-        
-        /// Width and height of object comes from above "drawRotarySlider"
-///        const int nFrames = 256; //knob.getHeight()/knob.getWidth(); // number of frames for vertical film strip
-        
-//        auto arr = BinaryData::namedResourceList;
-//        int n = sizeof(arr)/sizeof(arr[0]);
-//        auto elem = "Menu_knob_0000_png";
-//
-//        auto itr = std::find(arr, arr + n, elem);
-//
-//        int offset = std::distance(arr,itr);
-        
         const double fractRotation = (slider.getValue() - slider.getMinimum()) / (slider.getMaximum() - slider.getMinimum()); ///value between 0 and 1 for current amount of rotation
         
-        
-//        const int frameIdx = (int)ceil(fractRotation * ((BinaryData::namedResourceListSize) - 1));
-//        const char frameIdx = (int)ceil(fractRotation * (129 - 1)+offset);
-        int offsetFactor = 4;
-        // 517-645 => 128 frames
-        const char frameIdx = (int)ceil(fractRotation * 127) + 128*offsetFactor;
-        // Original current index from 0 --> namedResourceListSize-1
+        int offsetFactor = 4; /// the placement order of the files relative to the other files in the BinaryData
+        int numFrames = 128;
 
-        auto knob = BinaryData::getNamedResource (BinaryData::namedResourceList[frameIdx + (129*4)], knobSize);
+        const int frameIdx = (ceil(fractRotation * numFrames) + (numFrames+1)*offsetFactor); /// the index value based upon the fractional rotation and the location of the files in the BinaryData (offsetFactor)
+
+        int knobSize;
+        auto knob = BinaryData::getNamedResource (BinaryData::namedResourceList[frameIdx], knobSize);
         
         juce::Image image = juce::ImageCache::getFromMemory(knob, knobSize);
         
