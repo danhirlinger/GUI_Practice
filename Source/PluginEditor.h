@@ -19,8 +19,9 @@
 #include "ReverbKnob.h"
 #include "TSKnob.h"
 
-#include "AmpButton.h"
-#include "BBDButton.h"
+//#include "AmpButton.h"
+//#include "BBDButton.h"
+//#include "..L&F Overwrites/Buttons/CabinetButton.h"
 
 
 //==============================================================================
@@ -56,7 +57,7 @@ private:
     MXRKnob mxrKnob;
     ReverbKnob reverbKnob;
     TSKnob tsKnob;
-    AmpButton ampButton;
+//    AmpButton ampButton;
     
     Slider amp;
     Slider chorus;

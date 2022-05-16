@@ -3,8 +3,8 @@
 
 #include "../JuceLibraryCode/JuceHeader.h"
 
-#ifndef __AmpKnob__
-#define __AmpKnob__
+#ifndef __AmpButton__
+#define __AmpButton__
 
 //==============================================================================
 
@@ -28,12 +28,10 @@ public:
         
         g.drawImageAt(image, 0, 0, false);
            
-    
 }
   
 private:
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (AmpButton);
-    
 };
 
 #endif // AmpButton
