@@ -81,12 +81,8 @@ GUI_PracticeAudioProcessorEditor::GUI_PracticeAudioProcessorEditor (GUI_Practice
     ts.setLookAndFeel(&tsKnob);
     addAndMakeVisible(ts);
     
-//    ampButtonOn.setBounds(150,300,100,100);
-//    ampButtonOn.setButtonText("Amp Button");
-//    ampButtonOn.setRadioGroupId(1);
-//    ampButtonOn.setLookAndFeel(&ampButton);
-//
-//    ampButtonOff.setBounds
+    ampSwitchOn.setBounds(700,150,100,100);
+    addAndMakeVisible(ampSwitchOn);
     
 }
 

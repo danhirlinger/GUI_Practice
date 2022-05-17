@@ -649,13 +649,6 @@
 			path = "../../../ISW - GUI/1x/Animation/reverb_rv_1_knob/reverb_rv_1_knob_0128.png";
 			sourceTree = "SOURCE_ROOT";
 		};
-		0FD5AFAAB2F7A07F9BF6F377 = {
-			isa = PBXFileReference;
-			lastKnownFileType = sourcecode.c.h;
-			name = AmpButton.h;
-			path = "../../Source/L&F Overwrites/Buttons/AmpButton.h";
-			sourceTree = "SOURCE_ROOT";
-		};
 		0FE254245AC31545D76D0CD4 = {
 			isa = PBXFileReference;
 			lastKnownFileType = image.png;
@@ -2026,6 +2019,13 @@
 			lastKnownFileType = image.png;
 			name = "menu_knob_0048.png";
 			path = "../../../ISW - GUI/1x/Animation/menu_knob/menu_knob_0048.png";
+			sourceTree = "SOURCE_ROOT";
+		};
+		3CA0167A6536073CC3359294 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = AmpSwitch.h;
+			path = ../../Source/AmpSwitch.h;
 			sourceTree = "SOURCE_ROOT";
 		};
 		3CE984B7CB948547EC5929AB = {
@@ -7173,13 +7173,6 @@
 			path = "../../../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0099.png";
 			sourceTree = "SOURCE_ROOT";
 		};
-		E7648EA82729775AA1ACC5A9 = {
-			isa = PBXFileReference;
-			lastKnownFileType = image.png;
-			name = "amp_knob_0036.png";
-			path = "../../../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0036.png";
-			sourceTree = "SOURCE_ROOT";
-		};
 		E782B7EF153BB40AED4609F3 = {
 			isa = PBXFileReference;
 			lastKnownFileType = image.png;
@@ -7206,13 +7199,6 @@
 			lastKnownFileType = image.png;
 			name = "bbd echo EC-1_knob_0095.png";
 			path = "../../../ISW - GUI/1x/Animation/bbd echo EC-1_knob/bbd echo EC-1_knob_0095.png";
-			sourceTree = "SOURCE_ROOT";
-		};
-		E8D0F904FB48E825A8CA7240 = {
-			isa = PBXFileReference;
-			lastKnownFileType = image.png;
-			name = "bbd chorus cr-1_knob_0065.png";
-			path = "../../../ISW - GUI/1x/Animation/bbd chorus cr-1_knob/bbd chorus cr-1_knob_0065.png";
 			sourceTree = "SOURCE_ROOT";
 		};
 		E94351E86A5DF73FA9F974F7 = {
@@ -7264,20 +7250,6 @@
 			path = "../../../ISW - GUI/1x/Animation/mxr distortion_knob/mxr distortion_knob_0085.png";
 			sourceTree = "SOURCE_ROOT";
 		};
-		EABC0B6AFE9E6551854E9E17 = {
-			isa = PBXFileReference;
-			lastKnownFileType = image.png;
-			name = "amp_knob_0035.png";
-			path = "../../../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0035.png";
-			sourceTree = "SOURCE_ROOT";
-		};
-		EB01D085D3113C13220C4368 = {
-			isa = PBXFileReference;
-			lastKnownFileType = image.png;
-			name = "bbd chorus cr-1_knob_0060.png";
-			path = "../../../ISW - GUI/1x/Animation/bbd chorus cr-1_knob/bbd chorus cr-1_knob_0060.png";
-			sourceTree = "SOURCE_ROOT";
-		};
 		EBB69A7052639AFD7EC6F422 = {
 			isa = PBXFileReference;
 			lastKnownFileType = image.png;
@@ -7320,13 +7292,6 @@
 			path = "../../../ISW - GUI/1x/Animation/bbd echo EC-1_knob/bbd echo EC-1_knob_0074.png";
 			sourceTree = "SOURCE_ROOT";
 		};
-		ECC56635B7383A05A4CEC0C4 = {
-			isa = PBXFileReference;
-			lastKnownFileType = image.png;
-			name = "menu_knob_0103.png";
-			path = "../../../ISW - GUI/1x/Animation/menu_knob/menu_knob_0103.png";
-			sourceTree = "SOURCE_ROOT";
-		};
 		ECDCD23086A0728E15573CEE = {
 			isa = PBXFileReference;
 			lastKnownFileType = sourcecode.c.h;
@@ -7339,6 +7304,62 @@
 			lastKnownFileType = image.png;
 			name = "amp_knob_0091.png";
 			path = "../../../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0091.png";
+			sourceTree = "SOURCE_ROOT";
+		};
+		EF775094BB6C252CAAA9E1B7 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			name = "amp_knob_0087.png";
+			path = "../../../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0087.png";
+			sourceTree = "SOURCE_ROOT";
+		};
+		EFC196D9AFA8672240C4B432 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			path = "GUI_Practice.app";
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		1E22FFC12B382A29893C673D = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			path = "libGUI_Practice.a";
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		E7648EA82729775AA1ACC5A9 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			name = "amp_knob_0036.png";
+			path = "../../../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0036.png";
+			sourceTree = "SOURCE_ROOT";
+		};
+		E8D0F904FB48E825A8CA7240 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			name = "bbd chorus cr-1_knob_0065.png";
+			path = "../../../ISW - GUI/1x/Animation/bbd chorus cr-1_knob/bbd chorus cr-1_knob_0065.png";
+			sourceTree = "SOURCE_ROOT";
+		};
+		EABC0B6AFE9E6551854E9E17 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			name = "amp_knob_0035.png";
+			path = "../../../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0035.png";
+			sourceTree = "SOURCE_ROOT";
+		};
+		EB01D085D3113C13220C4368 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			name = "bbd chorus cr-1_knob_0060.png";
+			path = "../../../ISW - GUI/1x/Animation/bbd chorus cr-1_knob/bbd chorus cr-1_knob_0060.png";
+			sourceTree = "SOURCE_ROOT";
+		};
+		ECC56635B7383A05A4CEC0C4 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			name = "menu_knob_0103.png";
+			path = "../../../ISW - GUI/1x/Animation/menu_knob/menu_knob_0103.png";
 			sourceTree = "SOURCE_ROOT";
 		};
 		ED007831752A84D4F0AA8C91 = {
@@ -7360,6 +7381,13 @@
 			lastKnownFileType = image.png;
 			name = "equalizer EC-1_knob_0028.png";
 			path = "../../../ISW - GUI/1x/Animation/equalizer EC-1_knob/equalizer EC-1_knob_0028.png";
+			sourceTree = "SOURCE_ROOT";
+		};
+		EE5D3B45D042A3D0498A8CC7 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			name = "mxr distortion_knob_0027.png";
+			path = "../../../ISW - GUI/1x/Animation/mxr distortion_knob/mxr distortion_knob_0027.png";
 			sourceTree = "SOURCE_ROOT";
 		};
 		EE8393578E74D8ADAF940160 = {
@@ -7390,39 +7418,11 @@
 			path = "../../../ISW - GUI/1x/Animation/bbd chorus cr-1_knob/bbd chorus cr-1_knob_0125.png";
 			sourceTree = "SOURCE_ROOT";
 		};
-		EFC196D9AFA8672240C4B432 = {
-			isa = PBXFileReference;
-			explicitFileType = wrapper.application;
-			includeInIndex = 0;
-			path = "GUI_Practice.app";
-			sourceTree = "BUILT_PRODUCTS_DIR";
-		};
-		1E22FFC12B382A29893C673D = {
-			isa = PBXFileReference;
-			explicitFileType = archive.ar;
-			includeInIndex = 0;
-			path = "libGUI_Practice.a";
-			sourceTree = "BUILT_PRODUCTS_DIR";
-		};
-		EE5D3B45D042A3D0498A8CC7 = {
-			isa = PBXFileReference;
-			lastKnownFileType = image.png;
-			name = "mxr distortion_knob_0027.png";
-			path = "../../../ISW - GUI/1x/Animation/mxr distortion_knob/mxr distortion_knob_0027.png";
-			sourceTree = "SOURCE_ROOT";
-		};
 		EF249F99853EC64E0B003B4A = {
 			isa = PBXFileReference;
 			lastKnownFileType = image.png;
 			name = "tube screamer ts -1_knob_0035.png";
 			path = "../../../ISW - GUI/1x/Animation/tube screamer ts -1_knob/tube screamer ts -1_knob_0035.png";
-			sourceTree = "SOURCE_ROOT";
-		};
-		EF775094BB6C252CAAA9E1B7 = {
-			isa = PBXFileReference;
-			lastKnownFileType = image.png;
-			name = "amp_knob_0087.png";
-			path = "../../../ISW - GUI/0.75x/Animation/amp_knob/amp_knob_0087.png";
 			sourceTree = "SOURCE_ROOT";
 		};
 		EF7C9E795FD546461D753B31 = {
@@ -7979,21 +7979,10 @@
 			name = Knobs;
 			sourceTree = "<group>";
 		};
-		B277A65BF6E114C5D8CFE238 = {
-			isa = PBXGroup;
-			children = (
-				0FD5AFAAB2F7A07F9BF6F377,
-				CAB87B81885034388A58911F,
-				065DCB8B6B0AB824D01BABC0,
-			);
-			name = Buttons;
-			sourceTree = "<group>";
-		};
 		9700EC90B22E9F1A23F670A4 = {
 			isa = PBXGroup;
 			children = (
 				DB99F839E6E988059820F026,
-				B277A65BF6E114C5D8CFE238,
 			);
 			name = "L&F Overwrites";
 			sourceTree = "<group>";
@@ -9123,6 +9112,9 @@
 				FF21381D1CC7D14E69DC3009,
 				34D29C10ECA60AA4284CD632,
 				835D9CEE19C3C14DED16C308,
+				3CA0167A6536073CC3359294,
+				CAB87B81885034388A58911F,
+				065DCB8B6B0AB824D01BABC0,
 				8308B6F3A6A160B76B084F57,
 				7D8BB24EDB6B39F6B2C4BB49,
 			);

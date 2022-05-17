@@ -15,11 +15,7 @@
           <FILE id="sfN9nq" name="ReverbKnob.h" compile="0" resource="0" file="Source/ReverbKnob.h"/>
           <FILE id="bGlqrD" name="TSKnob.h" compile="0" resource="0" file="Source/TSKnob.h"/>
         </GROUP>
-        <GROUP id="{4F57A84F-E21B-6607-7966-A10D8D18BF48}" name="Buttons">
-          <FILE id="FfDLZr" name="AmpButton.h" compile="0" resource="0" file="Source/L&amp;F Overwrites/Buttons/AmpButton.h"/>
-          <FILE id="nWLQos" name="BBDButton.h" compile="0" resource="0" file="Source/L&amp;F Overwrites/Buttons/BBDButton.h"/>
-          <FILE id="OuhYlT" name="CabinetButton.h" compile="0" resource="0" file="Source/L&amp;F Overwrites/Buttons/CabinetButton.h"/>
-        </GROUP>
+        <GROUP id="{4F57A84F-E21B-6607-7966-A10D8D18BF48}" name="Buttons"/>
       </GROUP>
       <GROUP id="{B79573BB-E4C6-8B48-B1DB-F1D9388FE49E}" name="Images">
         <GROUP id="{AF3FE1BA-B5BE-4553-B9A1-0546ACA15DB3}" name="AmpKnob">
@@ -2123,6 +2119,9 @@
             file="Source/PluginProcessor.cpp"/>
       <FILE id="kNHfov" name="PluginProcessor.h" compile="0" resource="0"
             file="Source/PluginProcessor.h"/>
+      <FILE id="ShMvWa" name="AmpSwitch.h" compile="0" resource="0" file="Source/AmpSwitch.h"/>
+      <FILE id="nWLQos" name="BBDButton.h" compile="0" resource="0" file="Source/L&amp;F Overwrites/Buttons/BBDButton.h"/>
+      <FILE id="OuhYlT" name="CabinetButton.h" compile="0" resource="0" file="Source/L&amp;F Overwrites/Buttons/CabinetButton.h"/>
       <FILE id="zWdnAV" name="PluginEditor.cpp" compile="1" resource="0"
             file="Source/PluginEditor.cpp"/>
       <FILE id="GQ6xis" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>

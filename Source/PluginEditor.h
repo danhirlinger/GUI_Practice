@@ -19,7 +19,7 @@
 #include "ReverbKnob.h"
 #include "TSKnob.h"
 
-//#include "AmpButton.h"
+#include "AmpSwitch.h"
 //#include "BBDButton.h"
 //#include "..L&F Overwrites/Buttons/CabinetButton.h"
 
@@ -57,7 +57,7 @@ private:
     MXRKnob mxrKnob;
     ReverbKnob reverbKnob;
     TSKnob tsKnob;
-//    AmpButton ampButton;
+//    AmpSwitch ampSwitch;
     
     Slider amp;
     Slider chorus;
@@ -68,8 +68,8 @@ private:
     Slider reverb;
     Slider ts;
     
-    ToggleButton ampButtonOn;
-    ToggleButton ampButtonOff;
+    AmpSwitch ampSwitchOn;
+//    ToggleButton ampButtonOff;
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (GUI_PracticeAudioProcessorEditor)
 };
